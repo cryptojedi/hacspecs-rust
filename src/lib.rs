@@ -4,6 +4,7 @@
 
 #![allow(clippy::suspicious_arithmetic_impl)]
 
+/*
 pub mod aes;
 pub mod aesgcm;
 pub mod blake2b;
@@ -17,3 +18,5 @@ pub mod poly1305;
 pub mod sha2;
 pub mod hkdf;
 pub mod hmac;
+*/
+pub mod kyber;
